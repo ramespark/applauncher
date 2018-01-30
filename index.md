@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ramespark/applauncher/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](intent://scan/#Intent;scheme=samsungnfc;package=com.samsung.sample.nfc.nfcsample;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.sec.android.app.shealth;end) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
