@@ -7,7 +7,7 @@
        var url = new URL(window.document.URL.toString()+"");
        var searchParam = new URLSearchParams(url.search);
        var food_id = searchParam.get("food_id");   
-       window.location = "intent:#Intent;scheme=samsungnfc;package=com.samsung.sample.nfc.nfcsample;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.sec.android.app.shealth;i.food_id="+food_id+";end";
+       window.location = "intent:#Intent;scheme=samsungnfc;package=com.samsung.android.app.foodnote;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.sec.android.app.shealth;i.food_id="+food_id+";end";
      
      }
      
